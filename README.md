@@ -182,7 +182,7 @@ Named Entity Recognition (NER) identifies and classifies important named entitie
 * Python 3
 * NLTK
 * spaCy
-* Jupyter Notebook
+* Google Colab
 * Natural Language Processing
 
 ---
@@ -220,22 +220,18 @@ These include:
 
 ## ▶️ How to Run
 
-These programs are implemented as **Jupyter Notebooks (`.ipynb`)**.
+These programs are implemented as **Google Colab Notebooks (`.ipynb`)**.
 
 You can run them using:
 
-* Jupyter Notebook
+* Google Colab
 * JupyterLab
 * Google Colab
 * VS Code with the Jupyter extension
 
-### Start Jupyter Notebook
+### Open in Google Colab
 
-```bash
-jupyter notebook
-```
-
-Then open the required notebook and execute the cells sequentially.
+Open the required `.ipynb` file in Google Colab and execute the cells sequentially.
 
 For example:
 
